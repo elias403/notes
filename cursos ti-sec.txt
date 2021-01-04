@@ -1,0 +1,73 @@
+#CURSOS
+
+Computer Communications - https://www.coursera.org/specializations/computer-communications
+Analista de Cibersegurança da IBM - https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+Advanced System Security Design  - https://www.coursera.org/specializations/advanced-system-security-design
+Solyd 	- https://solyd.com.br/treinamentos/
+Computer Security and Systems Management - https://www.coursera.org/specializations/computer-security-systems-management
+Fundamentals of Computer Network Security- https://www.coursera.org/specializations/computer-network-security 
+Introduction to Applied Cryptography - https://www.coursera.org/specializations/introduction-applied-cryptography
+Suporte em TI do Google - https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+Esecurity - https://esecurity.com.br/cursos/
+
+Udemy  
+	https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
+	https://www.udemy.com/course/fundamentos-de-ethical-hacking/
+	https://www.udemy.com/course/exin-iso-27001-information-security-foundation/
+
+Mente Binária - https://www.mentebinaria.com.br/treinamentos
+Code Red - https://codered.eccouncil.org/Home
+
+
+
+
+#SITES
+
+https://caveiratech.com/forum/
+https://clavis.com.br/
+https://solyd.com.br/
+https://hackersec.com/
+https://esecurity.com.br/
+https://www.offensive-security.com/
+https://desecsecurity.com/
+https://forum.guiadohacker.com.br/
+https://www.mentebinaria.com.br/	
+https://danieldonda.com/	
+https://www.fabricadenoobs.com.br/	
+https://blog.corujadeti.com.br/
+https://www.ethicalhacker.com.br/site/
+https://leandrodriguesilva.wordpress.com/
+https://www.100security.com.br/
+https://nsworld.com.br/
+https://www.oanalista.io/
+https://www.hackingarticles.in/
+
+
+#CERTIFICADOS
+
+road map: https://pauljerimy.com/security-certification-roadmap/
+https://acaditi.com.br/
+https://www.eccouncil.org/
+https://www.comptia.org/pt/certificacoes
+https://elearnsecurity.com/
+https://www.offensive-security.com/
+https://www.exin.com/certifications
+
+
+#LIVROS
+https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002-ebook/dp/B079C58RWV
+
+https://www.americanas.com.br/produto/133256721
+
+https://www.americanas.com.br/produto/134493525
+
+https://www.americanas.com.br/produto/134496427
+
+
+https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077
+
+
+
+
+
+
